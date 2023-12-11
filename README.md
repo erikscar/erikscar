@@ -3,7 +3,7 @@
 My name is Erik Scarcela Araujo and I'm a Front-end developer from Santo André, São Paulo. I like to spend several hours of my day developing applications that look good and are useful.
 
 <a href="#">
-<img src="https://img1.picmix.com/output/pic/normal/1/9/7/7/7117791_033ed.gif" title="hello" width="335" height="243" align="right" alt="Hello, there!">
+<img src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-224.gif" title="hello" width="335" height="243" align="right" alt="Hello, there!">
 </a>
 
 My Current Technologies:
