@@ -2,6 +2,10 @@
 
 My name is Erik Scarcela Araujo and I'm a Front-end developer from Santo André, São Paulo. I like to spend several hours of my day developing applications that look good and are useful.
 
+<a href="#">
+<img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-646.gif" title="hello" width="335" height="243" align="right" alt="Hello, there!">
+</a>
+
 My Current Technologies:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
