@@ -1,8 +1,8 @@
 ### Hey there 👋
 
-My name is Erik Scarcela Araujo and I'm a Front-end developer from Santo André, São Paulo. I like to spend several hours of my day developing applications that look good and are useful.
+###My name is Erik Scarcela Araujo and I'm a Front-end developer from Santo André, São Paulo. I like to spend several hours of my day developing applications that look good and are useful.
 
-My Current Technologies:
+###My Current Technologies:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
