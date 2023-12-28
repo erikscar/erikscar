@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-My name is Erik Scarcela Araujo and I'm a Front-end developer from Santo André, São Paulo. 
+My name is Erik Scarcela Araujo and I'm a Full Stack developer from Santo André, São Paulo. 
 Passionate about programming, I strive to create exceptional websites and applications that not only respond to real challenges, but also look great on all devices.
 Currently looking for opportunities to improve and apply my skills in a professional environment.
 
