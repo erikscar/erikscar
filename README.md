@@ -6,7 +6,6 @@ My name is Erik Scarcela Araujo and I'm a Front-end developer from Santo André,
 <img src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-224.gif" title="hello" width="335" height="243" align="right" alt="Hello, there!">
 </a>
 
-<br><br><br>
 My Current Technologies
 
 Front-End: 
