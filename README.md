@@ -30,6 +30,7 @@ Currently looking for opportunities to improve and apply my skills in a professi
 
 <div align="center">
   <table>
+	  <tr>
     <td width="50%">
     <h3 align="center">SwiftCart</h3>
       <div align="center">
@@ -50,7 +51,7 @@ Currently looking for opportunities to improve and apply my skills in a professi
       </div>
     </td>
 	     <td width="50%">
-    <h3 align="center">SwiftCart</h3>
+    <h3 align="center">WeatherCard</h3>
       <div align="center">
           <img src="https://live.staticflickr.com/65535/53832053417_f312820db6_h.jpg" height="100%"/>
         <br>
@@ -65,5 +66,6 @@ Currently looking for opportunities to improve and apply my skills in a professi
           Developed using modern web technologies, the site displays an intuitive card that shows crucial weather data based on the city entered by the user.
       </div>
     </td>
+		  </tr>
   </table>
 </div>
