@@ -34,7 +34,7 @@ Currently looking for opportunities to improve and apply my skills in a professi
     <h3 align="center">WeatherCard</h3>
       <div align="center">
         <a href="https://weather-card-app-silk.vercel.app/" target="_blank">
-          <img src="https://live.staticflickr.com/65535/53833277034_6c36d81c07_h.jpg"/>
+          <img src="https://live.staticflickr.com/65535/53833277034_6c36d81c07_h.jpg" height="100%"/>
         </a>
       </div>
     </td>
