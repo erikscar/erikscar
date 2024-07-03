@@ -27,3 +27,16 @@ Currently looking for opportunities to improve and apply my skills in a professi
 
 <h2 align="center">Main Projects</h2>
 <br>
+
+<div align="center">
+  <table>
+    <td width="50%">
+    <h3 align="center">WeatherCard</h3>
+      <div align="center">
+        <a href="https://weather-card-app-silk.vercel.app/" target="_blank">
+          <img src="https://live.staticflickr.com/65535/53833277034_6c36d81c07_h.jpg"/>
+        </a>
+      </div>
+    </td>
+  </table>
+</div>
