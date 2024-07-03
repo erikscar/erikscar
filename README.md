@@ -16,7 +16,7 @@ Currently looking for opportunities to improve and apply my skills in a professi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="75" height="75" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75" />
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" alt="nodejs" width="75" height="75" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="expressjs" width="75" height="75" />
+  <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor" alt="expressjs" width="75" height="75" />
   <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="csharp" width="75" height="75" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="75" height="75" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
