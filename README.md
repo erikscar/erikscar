@@ -23,3 +23,4 @@ Currently looking for opportunities to improve and apply my skills in a professi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
 </div>
 
+<hr>
