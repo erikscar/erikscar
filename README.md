@@ -6,10 +6,8 @@ Currently looking for opportunities to improve and apply my skills in a professi
 
 <hr>
 
-<br>
-
 <h2 align="center">Skills</h2>
-
+<br>
 <div align="center">
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="html5" width="75" height="75"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
@@ -27,6 +25,5 @@ Currently looking for opportunities to improve and apply my skills in a professi
 
 <hr>
 
-<br>
-
 <h2 align="center">Main Projects</h2>
+<br>
