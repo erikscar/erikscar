@@ -34,9 +34,7 @@ Currently looking for opportunities to improve and apply my skills in a professi
       <td width="50%">
         <h3 align="center">SwiftCart</h3>
         <div align="center">
-          <a href="https://weather-card-app-silk.vercel.app/" target="_blank">
             <img src="https://live.staticflickr.com/65535/53833277034_6c36d81c07_h.jpg" height="300" alt="SwiftCart"/>
-          </a>
           <br><br>
           <p>
             <a href="https://github.com/erikscar/swift-cart" target="_blank">
@@ -52,7 +50,9 @@ Currently looking for opportunities to improve and apply my skills in a professi
       <td width="50%">
         <h3 align="center">WeatherCard</h3>
         <div align="center">
+          <a href="https://weather-card-app-silk.vercel.app/" target="_blank">
           <img src="https://live.staticflickr.com/65535/53832053417_f312820db6_h.jpg" height="300" alt="WeatherCard"/>
+          </a>
           <br><br>
           <p>
             <a href="https://github.com/erikscar/weather-card-app" target="_blank">
@@ -86,7 +86,7 @@ Currently looking for opportunities to improve and apply my skills in a professi
       <td width="50%">
         <h3 align="center">CRUD Entity Framework</h3>
         <div align="center">
-          <img src="https://live.staticflickr.com/65535/53833245893_031130b17d_h.jpg" height="300" alt="CRUD-Entity-Framework"/>
+          <img src="https://live.staticflickr.com/65535/53833251953_3fdab74747_b.jpg" height="300" alt="CRUD-Entity-Framework"/>
           <br><br>
           <p>
             <a href="https://github.com/erikscar/crud-aspnet" target="_blank">
