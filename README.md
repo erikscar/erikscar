@@ -1,8 +1,12 @@
 ### Hey there 👋
 
-My name is Erik Scarcela Araujo and I'm a Full Stack developer from Santo André, São Paulo. 
+<h1 align="center">Hi 👋, I'm Erik Scarcela Araujo</h1>
+<h3 align="center">A full stack developer from Santo André, SP</h3>
+
 Passionate about programming, I strive to create exceptional websites and applications that not only respond to real challenges, but also look great on all devices.
 Currently looking for opportunities to improve and apply my skills in a professional environment.
+
+<hr>
 
 <a href="#">
 <img src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-224.gif" title="hello" width="335" height="243" align="right" alt="Hello, there!">
