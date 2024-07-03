@@ -66,5 +66,39 @@ Currently looking for opportunities to improve and apply my skills in a professi
         </div>
       </td>
     </tr>
+      <tr>
+      <td width="50%">
+        <h3 align="center">TaskTwist</h3>
+        <div align="center">
+            <img src="https://live.staticflickr.com/65535/53833245893_031130b17d_h.jpg" height="300" alt="TaskTwist"/>
+          <br><br>
+          <p>
+            <a href="https://github.com/erikscar/TaskTwist" target="_blank">
+              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+            </a>
+          </p>
+          <p><strong>EJS, CSS3, NodeJS, ExpressJS and MongoDB</strong></p>
+          <p>
+            E-commerce simulation project using ReactJS for the user interface, JavaScript for dynamic functionalities, NodeJS for the backend, ExpressJS for the web server and MySQL for the database. It offers CRUD operations for products, carts and favorites, the main objective of which was to create an intuitive and pleasant online shopping experience.
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">CRUD Entity Framework</h3>
+        <div align="center">
+          <img src="https://live.staticflickr.com/65535/53833245893_031130b17d_h.jpg" height="300" alt="CRUD-Entity-Framework"/>
+          <br><br>
+          <p>
+            <a href="https://github.com/erikscar/crud-aspnet" target="_blank">
+              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+            </a>
+          </p>
+          <p><strong>.NET, Entity Framework, Bootstrap and MySQL</strong></p>
+          <p>
+            E-commerce simulation project using ReactJS for the user interface, JavaScript for dynamic functionalities, NodeJS for the backend, ExpressJS for the web server and MySQL for the database. It offers CRUD operations for products, carts and favorites, the main objective of which was to create an intuitive and pleasant online shopping experience.
+          </p>
+        </div>
+      </td>
+    </tr>
   </table>
 </div>
