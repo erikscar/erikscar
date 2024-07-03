@@ -24,3 +24,5 @@ Currently looking for opportunities to improve and apply my skills in a professi
 </div>
 
 <hr>
+
+<h2 align="center">Main Projects</h2>
