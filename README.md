@@ -1,5 +1,3 @@
-### Hey there 👋
-
 <h1 align="center">Hi 👋, I'm Erik Scarcela Araujo</h1>
 <h3 align="center">A full stack developer from Santo André, SP</h3>
 
@@ -8,9 +6,15 @@ Currently looking for opportunities to improve and apply my skills in a professi
 
 <hr>
 
-<a href="#">
-<img src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-224.gif" title="hello" width="335" height="243" align="right" alt="Hello, there!">
-</a>
+<h2 align="center">Skills</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
+</div>
 
 My Current Technologies
 
