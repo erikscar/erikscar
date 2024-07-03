@@ -8,7 +8,7 @@ Currently looking for opportunities to improve and apply my skills in a professi
 
 <h2 align="center">Skills</h2>
 
-<div align="center" padding="4rem">
+<div align="center">
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="html5" width="75" height="75"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="javascript" width="75" height="75"/>
@@ -21,6 +21,5 @@ Currently looking for opportunities to improve and apply my skills in a professi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="75" height="75" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
-  <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor" alt="mysql" width="75" height="75"/> 
 </div>
 
