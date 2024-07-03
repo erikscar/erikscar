@@ -37,7 +37,7 @@ Currently looking for opportunities to improve and apply my skills in a professi
             <img src="https://live.staticflickr.com/65535/53833277034_6c36d81c07_h.jpg" height="300" alt="SwiftCart"/>
           <br><br>
           <p>
-            <a href="https://github.com/erikscar/swift-cart" target="_blank">
+            <a href="https://github.com/erikscar/swift-cart" target="blank">
               <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
             </a>
           </p>
@@ -50,12 +50,12 @@ Currently looking for opportunities to improve and apply my skills in a professi
       <td width="50%">
         <h3 align="center">WeatherCard</h3>
         <div align="center">
-          <a href="https://weather-card-app-silk.vercel.app/" target="_blank">
+          <a href="https://weather-card-app-silk.vercel.app/" target="blank">
           <img src="https://live.staticflickr.com/65535/53832053417_f312820db6_h.jpg" height="300" alt="WeatherCard"/>
           </a>
           <br><br>
           <p>
-            <a href="https://github.com/erikscar/weather-card-app" target="_blank">
+            <a href="https://github.com/erikscar/weather-card-app" target="blank">
               <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
             </a>
           </p>
@@ -89,7 +89,7 @@ Currently looking for opportunities to improve and apply my skills in a professi
           <img src="https://live.staticflickr.com/65535/53833251953_3fdab74747_b.jpg" height="300" alt="CRUD-Entity-Framework"/>
           <br><br>
           <p>
-            <a href="https://github.com/erikscar/crud-aspnet" target="_blank">
+            <a href="https://github.com/erikscar/crud-aspnet" target="blank">
               <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
             </a>
           </p>
@@ -102,3 +102,13 @@ Currently looking for opportunities to improve and apply my skills in a professi
     </tr>
   </table>
 </div>
+<hr>
+<br>
+
+<h2 align="center">Contact Me</h2>
+<p align="center">
+	&nbsp&nbsp&nbsp
+<a href="www.linkedin.com/in/erik-scarcela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erikscar" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+</p>
+
+<hr>
