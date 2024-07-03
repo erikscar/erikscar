@@ -61,7 +61,7 @@ Currently looking for opportunities to improve and apply my skills in a professi
           </p>
           <p><strong>HTML5, CSS3 and JavaScript</strong></p>
           <p>
-            Developed using modern web technologies, the site displays an intuitive card that shows crucial weather data based on the city entered by the user.
+            Developed using modern web technologies, the site displays an intuitive card that shows crucial weather data based on the city entered by the user.Developed using modern web technologies, the site displays an intuitive card that shows crucial weather data based on the city entered by the user.
           </p>
         </div>
       </td>
