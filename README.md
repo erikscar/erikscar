@@ -52,20 +52,17 @@ Currently looking for opportunities to improve and apply my skills in a professi
 	     <td width="50%">
     <h3 align="center">SwiftCart</h3>
       <div align="center">
-        <a href="https://weather-card-app-silk.vercel.app/" target="_blank">
-          <img src="https://live.staticflickr.com/65535/53833277034_6c36d81c07_h.jpg" height="100%"/>
-        </a>
+          <img src="https://live.staticflickr.com/65535/53832053417_f312820db6_h.jpg" height="100%"/>
         <br>
         <br>
         <p>
-						<a href="https://github.com/erikscar/swift-cart" target="_blank">
+						<a href="https://github.com/erikscar/weather-card-app" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 			  </p>
-        <p><strong>ReactJS, JavaScript, CSS3, NodeJS, ExpressJS and MySQL</strong></p>
+        <p><strong>HTML5, CSS3 and JavaScript</strong></p>
         <p>
-          E-commerce simulation project using ReactJS for the user interface, JavaScript for dynamic functionalities, NodeJS for the backend, ExpressJS for the web server and MySQL for the database. It offers CRUD operations for products, carts and favorites, the main objective of which was to create an intuitive and pleasant online shopping experience.
-        </p>
+          Developed using modern web technologies, the site displays an intuitive card that shows crucial weather data based on the city entered by the user.
       </div>
     </td>
   </table>
