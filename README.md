@@ -61,7 +61,7 @@ Currently looking for opportunities to improve and apply my skills in a professi
           </p>
           <p><strong>HTML5, CSS3 and JavaScript</strong></p>
           <p>
-            E-commerce simulation project using ReactJS for the user interface, JavaScript for dynamic functionalities, NodeJS for the backend, ExpressJS for the web server and MySQL for the database. It offers CRUD operations for products, carts and favorites, the main objective of which was to create an intuitive and pleasant online shopping experience.
+           The weather information search site project uses JavaScript, HTML, and CSS for the user interface, integrating the Open Weather API to provide detailed weather information for a specific city based on user input. The main objective is to create an intuitive and pleasant user experience, allowing users to enter the city name in a prompt field and receive real-time updates on temperature, humidity, wind speed, and weather conditions. The responsive and clean design ensures accessibility across different devices, providing a smooth and efficient interaction with weather data.
           </p>
         </div>
       </td>
