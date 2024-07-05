@@ -61,7 +61,7 @@ Currently looking for opportunities to improve and apply my skills in a professi
           </p>
           <p><strong>HTML5, CSS3 and JavaScript</strong></p>
           <p>
-           The weather information search site project uses JavaScript, HTML, and CSS for the user interface, integrating the Open Weather API to provide detailed weather information for a specific city based on user input. The main objective is to create an intuitive and pleasant user experience, allowing users to enter the city name in a prompt field and receive real-time updates on temperature, humidity, wind speed, and weather conditions. The responsive and clean design ensures accessibility across different devices, providing a smooth and efficient interaction with weather data.
+           The weather search site project uses JavaScript, HTML, and CSS for the user interface, integrating the Open Weather API to provide weather information for a specific city based on user input. Users can enter a city name and receive real-time updates on weather conditions. The responsive design ensures smooth interaction across different devices.
           </p>
         </div>
       </td>
