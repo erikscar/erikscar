@@ -79,7 +79,7 @@ Currently looking for opportunities to improve and apply my skills in a professi
           </p>
           <p><strong>EJS, CSS3, NodeJS, ExpressJS and MongoDB</strong></p>
           <p>
-            E-commerce simulation project using ReactJS for the user interface, JavaScript for dynamic functionalities, NodeJS for the backend, ExpressJS for the web server and MySQL for the database. It offers CRUD operations for products, carts and favorites, the main objective of which was to create an intuitive and pleasant online shopping experience.
+           The task and checklist CRUD project uses EJS, CSS3, NodeJS, ExpressJS, and MongoDB. It provides functionality to create, read, update, and delete tasks and checklists, offering an intuitive and efficient user experience. Users can manage their tasks and checklists seamlessly, with real-time updates and a responsive design ensuring smooth interaction across different devices. The integration of these technologies ensures robust performance and ease of use.
           </p>
         </div>
       </td>
@@ -94,8 +94,8 @@ Currently looking for opportunities to improve and apply my skills in a professi
             </a>
           </p>
           <p><strong>.NET, Entity Framework, Bootstrap and MySQL</strong></p>
-          <p>
-            E-commerce simulation project using ReactJS for the user interface, JavaScript for dynamic functionalities, NodeJS for the backend, ExpressJS for the web server and MySQL for the database. It offers CRUD operations for products, carts and favorites, the main objective of which was to create an intuitive and pleasant online shopping experience.
+          <p>         
+The suppliers, sales, and departments CRUD project uses .NET, Entity Framework, Bootstrap, and MySQL. It provides functionality to create, read, update, and delete records for suppliers, sales, and departments, offering a user-friendly and efficient experience. Users can manage their data seamlessly, with real-time updates and a responsive design ensuring smooth interaction across various devices. The integration of these technologies ensures robust performance and ease of use.
           </p>
         </div>
       </td>
