@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Erik Scarcela Araujo</h1>
-<h3 align="center">A full stack developer from Santo André, SP</h3>
-
-Passionate about programming, I strive to create exceptional websites and applications that not only respond to real challenges, but also look great on all devices.
-Currently looking for opportunities to improve and apply my skills in a professional environment.
+<h1 align="center">Olá 👋, Sou Erik Scarcela Araujo</h1>
+<h3 align="center">Um Desenvolvedor FullStack de Santo André, SP</h3>
 
 <hr>
 
-<h2 align="center">Skills</h2>
-<br>
+Apaixonado por programação, me esforço para criar sites e aplicativos excepcionais que não apenas respondam a desafios reais, mas também tenham uma ótima aparência em todos os dispositivos. Atualmente, estou em busca de oportunidades para aprimorar e aplicar minhas habilidades em um ambiente profissional.
+
+<hr>
+
+<h2 align="center" padding-bottom="20px">Linguagens</h2>
+
 <div align="center">
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="html5" width="75" height="75"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="javascript" width="75" height="75"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="angular" width="75" height="75"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="sass" width="75" height="75"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="75" height="75" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75" />
@@ -22,11 +24,23 @@ Currently looking for opportunities to improve and apply my skills in a professi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="75" height="75"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="angular" width="75" height="75"/> 
 </div>
 
-<hr>
+<br>
+<br>
 
-<h2 align="center">Main Projects</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikscar&layout=compact&langs_count=6&theme=dark" />
+</p>
+
+## Contatos
+- 📧 **E-mail para contato**: [erikscarcela@gmail.com](mailto:erikscarcela@gmail.com)
+- 🔗 **LinkedIn**: [linkedin.com/in/erik-scarcela](https://www.linkedin.com/in/erik-scarcela/)
+
+Obrigado por visitar meu perfil! 🚀
+
+<h2 align="center">Projetos em Destaque</h2>
 <br>
 
 <div align="center">
@@ -35,7 +49,7 @@ Currently looking for opportunities to improve and apply my skills in a professi
       <td width="50%">
         <h3 align="center">SwiftCart</h3>
         <div align="center">
-            <img src="https://live.staticflickr.com/65535/53833277034_6c36d81c07_h.jpg" height="300" alt="SwiftCart"/>
+          <img src="https://live.staticflickr.com/65535/53833277034_6c36d81c07_h.jpg" height="300" alt="SwiftCart"/>
           <br><br>
           <p>
             <a href="https://github.com/erikscar/swift-cart" target="blank">
@@ -44,7 +58,7 @@ Currently looking for opportunities to improve and apply my skills in a professi
           </p>
           <p><strong>ReactJS, JavaScript, CSS3, NodeJS, ExpressJS and MySQL</strong></p>
           <p>
-            E-commerce simulation project using ReactJS for the user interface, JavaScript for dynamic functionalities, NodeJS for the backend, ExpressJS for the web server and MySQL for the database. It offers CRUD operations for products, carts and favorites, the main objective of which was to create an intuitive and pleasant online shopping experience.
+            Projeto de simulação de e-commerce usando ReactJS para a interface do usuário, JavaScript para funcionalidades dinâmicas, NodeJS para o backend, ExpressJS para o servidor web e MySQL para o banco de dados. Ele oferece operações CRUD para produtos, carrinhos e favoritos, cujo principal objetivo foi criar uma experiência de compra online intuitiva e agradável.
           </p>
         </div>
       </td>
@@ -52,7 +66,7 @@ Currently looking for opportunities to improve and apply my skills in a professi
         <h3 align="center">WeatherCard</h3>
         <div align="center">
           <a href="https://weather-card-app-silk.vercel.app/" target="blank">
-          <img src="https://live.staticflickr.com/65535/53832053417_f312820db6_h.jpg" height="300" alt="WeatherCard"/>
+            <img src="https://live.staticflickr.com/65535/53832053417_f312820db6_h.jpg" height="300" alt="WeatherCard"/>
           </a>
           <br><br>
           <p>
@@ -62,16 +76,16 @@ Currently looking for opportunities to improve and apply my skills in a professi
           </p>
           <p><strong>HTML5, CSS3 and JavaScript</strong></p>
           <p>
-           The weather search site project uses JavaScript, HTML, and CSS for the user interface, integrating the Open Weather API to provide weather information for a specific city based on user input. Users can enter a city name and receive real-time updates on weather conditions. The responsive design ensures smooth interaction across different devices.
+            O projeto do site de busca de clima utiliza JavaScript, HTML e CSS para a interface do usuário, integrando a Open Weather API para fornecer informações meteorológicas de uma cidade específica com base na entrada do usuário. Os usuários podem inserir o nome de uma cidade e receber atualizações em tempo real sobre as condições climáticas. O design responsivo garante uma interação fluida em diferentes dispositivos.
           </p>
         </div>
       </td>
     </tr>
-      <tr>
+    <tr>
       <td width="50%">
         <h3 align="center">TaskTwist</h3>
         <div align="center">
-            <img src="https://live.staticflickr.com/65535/53833245893_031130b17d_h.jpg" height="300" alt="TaskTwist"/>
+          <img src="https://live.staticflickr.com/65535/53833245893_031130b17d_h.jpg" height="300" alt="TaskTwist"/>
           <br><br>
           <p>
             <a href="https://github.com/erikscar/TaskTwist" target="_blank">
@@ -80,7 +94,7 @@ Currently looking for opportunities to improve and apply my skills in a professi
           </p>
           <p><strong>EJS, CSS3, NodeJS, ExpressJS and MongoDB</strong></p>
           <p>
-           The task and checklist CRUD project uses EJS, CSS3, NodeJS, ExpressJS, and MongoDB. It provides functionality to create, read, update, and delete tasks and checklists, offering an intuitive and efficient user experience. Users can manage their tasks and checklists seamlessly, with real-time updates and a responsive design ensuring smooth interaction across different devices. The integration of these technologies ensures robust performance and ease of use.
+            O projeto de CRUD de tarefas e checklists utiliza EJS, CSS3, NodeJS, ExpressJS e MongoDB. Ele oferece funcionalidades para criar, ler, atualizar e excluir tarefas e checklists, proporcionando uma experiência do usuário intuitiva e eficiente. Os usuários podem gerenciar suas tarefas e checklists de forma fluida, com atualizações em tempo real e um design responsivo que garante uma interação perfeita em diferentes dispositivos. A integração dessas tecnologias assegura um desempenho robusto e facilidade de uso.
           </p>
         </div>
       </td>
@@ -95,21 +109,14 @@ Currently looking for opportunities to improve and apply my skills in a professi
             </a>
           </p>
           <p><strong>.NET, Entity Framework, Bootstrap and MySQL</strong></p>
-          <p>         
-The suppliers, sales, and departments CRUD project uses .NET, Entity Framework, Bootstrap, and MySQL. It provides functionality to create, read, update, and delete records for suppliers, sales, and departments, offering a user-friendly and efficient experience. Users can manage their data seamlessly, with real-time updates and a responsive design ensuring smooth interaction across various devices. The integration of these technologies ensures robust performance and ease of use.
+          <p>
+            O projeto de CRUD para fornecedores, vendas e departamentos utiliza .NET, Entity Framework, Bootstrap e MySQL. Ele oferece funcionalidades para criar, ler, atualizar e excluir registros de fornecedores, vendas e departamentos, proporcionando uma experiência intuitiva e eficiente para o usuário. Os usuários podem gerenciar seus dados de forma fluida, com atualizações em tempo real e um design responsivo que garante uma interação perfeita em diversos dispositivos. A integração dessas tecnologias assegura um desempenho robusto e facilidade de uso.
           </p>
         </div>
       </td>
     </tr>
   </table>
 </div>
+
 <hr>
 <br>
-
-<h2 align="center">Contact Me</h2>
-<p align="center">
-	&nbsp&nbsp&nbsp
-<a href="www.linkedin.com/in/erik-scarcela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erikscar" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-</p>
-
-<hr>
